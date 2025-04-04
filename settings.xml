@@ -14,7 +14,7 @@
     <id>default</id>
     <repositories>
       <repository>
-        <id>codeartifact</id>
+        <id>java-webapp-maven-repo-java-webapp-maven-repo</id>
     <url>https://java-webapp-maven-repo-014498652490.d.codeartifact.us-east-2.amazonaws.com/maven/java-webapp-maven-repo/</url>
       </repository>
     </repositories>
